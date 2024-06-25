@@ -25,7 +25,7 @@ circle(circuloX[contador],circuloY[contador],50);
 circuloY[contador]=random(height)
 }
 }
-if(mouselsPressed){
+if(mouseIsPressed){
 
 cor=color(random(0, 255), random(0, 255), random(0, 255), random(0, 100));
 }
